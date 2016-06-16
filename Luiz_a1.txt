@@ -1,0 +1,104 @@
+
+
+Query: patch adams good will hunting dead poets society
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 3
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: casino godfather: part II silver linings playbook
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+ALL ZEROS IN THIS ROUND
+Robert DeNiro
+
+
+Query: star trek the cabin in the woods red dawn
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 8
+Count Sigmoid: 0
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: the man from u.n.c.l.e. stardust immortals
+Tfidf Cosine: 7
+Tfidf Sigmoid: 7
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: the matrix cloud atlas v for vendetta
+Tfidf Cosine: 3
+Tfidf Sigmoid: 3
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: star wars: episode II attack of the clones lord of the rings fellowship of the ring hugo
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: kick-ass national treasure ghost rider
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 3
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: edge of tomorrow devil wears prada sicario
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 5
+Count Sigmoid: 0
+Hashing Cosine: 5
+Hashing Sigmoid: 5
+
+
+Query: forgetting sarah marshall the muppets this is the en
+Tfidf Cosine: 7
+Tfidf Sigmoid: 7
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: american hustle man of steel the fighter
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+ALL ZEROS IN THIS ROUND
+Amy Adams
+
+
+Rounds: 10
+Scores:
+Tfidf with cosine similarity earned 27
+Tfidf with sigmoid kernel earned 27
+Count with cosine similarity earned 13
+Count with sigmoid kernel earned 6
+Hashing with cosine similarity earned 13
+Hashing with sigmoid kernel earned 13

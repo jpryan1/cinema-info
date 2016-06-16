@@ -1,0 +1,100 @@
+
+
+Query: joaquin phoenix reese witherspoon robert patrick
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 0
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Query: jim carrey danny devito paul giamatti
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 9
+Count Sigmoid: 9
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: steve martin john candy laila robins
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 10
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Query: morgan freeman tim robbins bob gunton
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 5
+Count Sigmoid: 9
+Hashing Cosine: 5
+Hashing Sigmoid: 5
+
+
+Query: will smith jaden smith thandie newton
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 8
+Count Sigmoid: 8
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: ralph macchio pat morita elisabeth shue
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 9
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Query: gene wilder madeline kahn cleavon little
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 9
+Count Sigmoid: 10
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: ally sheedy emilio estevez anthony michael hall
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 0
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Query: cary elwes robin wright billy crystal
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 9
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Query: marshall mathers brittany murphy mekhi phifer
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 0
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Rounds: 10
+Scores:
+Tfidf with cosine similarity earned 96
+Tfidf with sigmoid kernel earned 96
+Count with cosine similarity earned 91
+Count with sigmoid kernel earned 64
+Hashing with cosine similarity earned 91
+Hashing with sigmoid kernel earned 91

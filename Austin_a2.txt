@@ -1,0 +1,100 @@
+
+
+Query: silver linings playbook hunger games x-men days
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 9
+Count Sigmoid: 0
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: last five years camp pitch perfect
+Tfidf Cosine: 10
+Tfidf Sigmoid: 10
+Count Cosine: 10
+Count Sigmoid: 10
+Hashing Cosine: 10
+Hashing Sigmoid: 10
+
+
+Query: devil wears prada kramer vs. kramer sophie's choice
+Tfidf Cosine: 6
+Tfidf Sigmoid: 6
+Count Cosine: 5
+Count Sigmoid: 10
+Hashing Cosine: 5
+Hashing Sigmoid: 5
+
+
+Query: usual suspects se7en american beauty
+Tfidf Cosine: 4
+Tfidf Sigmoid: 4
+Count Cosine: 2
+Count Sigmoid: 9
+Hashing Cosine: 2
+Hashing Sigmoid: 2
+
+
+Query: the graduate rain man hook
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 9
+Count Sigmoid: 0
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: mrs. doubtfire dead poets society good morning vietnam
+Tfidf Cosine: 6
+Tfidf Sigmoid: 6
+Count Cosine: 7
+Count Sigmoid: 10
+Hashing Cosine: 7
+Hashing Sigmoid: 7
+
+
+Query: the talented mr. ripley the master almost famous
+Tfidf Cosine: 2
+Tfidf Sigmoid: 2
+Count Cosine: 0
+Count Sigmoid: 8
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: the martian good will hunting the departed
+Tfidf Cosine: 7
+Tfidf Sigmoid: 7
+Count Cosine: 7
+Count Sigmoid: 8
+Hashing Cosine: 7
+Hashing Sigmoid: 7
+
+
+Query: into the woods sicario the devil wears prada
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 8
+Count Sigmoid: 8
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: the dark knight rises princess diaries les miserables
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 5
+Count Sigmoid: 2
+Hashing Cosine: 5
+Hashing Sigmoid: 5
+
+
+Rounds: 10
+Scores:
+Tfidf with cosine similarity earned 70
+Tfidf with sigmoid kernel earned 70
+Count with cosine similarity earned 62
+Count with sigmoid kernel earned 65
+Hashing with cosine similarity earned 62
+Hashing with sigmoid kernel earned 62

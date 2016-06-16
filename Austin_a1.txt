@@ -1,0 +1,102 @@
+
+
+Query: silver linings playbook hunger games x-men future past
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 9
+Count Sigmoid: 9
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: last five years camp pitch perfect
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 8
+Count Sigmoid: 0
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: devil wears prada kramer kramer sophie's choice
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 7
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: usual suspects se7en american beauty
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 2
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: graduate rain man hook
+Tfidf Cosine: 3
+Tfidf Sigmoid: 3
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: mrs. doubtfire dead poets society morning vietnam
+Tfidf Cosine: 3
+Tfidf Sigmoid: 3
+Count Cosine: 0
+Count Sigmoid: 10
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: talented mr. ripley master almost famous
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+ALL ZEROS IN THIS ROUND
+Phillip Seymour Hoffman
+
+
+Query: martian will hunting departed
+Tfidf Cosine: 6
+Tfidf Sigmoid: 6
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: into woods sicario devil wears prada
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 8
+Count Sigmoid: 5
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: dark knight rises princess diaries les miserables
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 3
+Count Sigmoid: 3
+Hashing Cosine: 3
+Hashing Sigmoid: 3
+
+
+Rounds: 10
+Scores:
+Tfidf with cosine similarity earned 45
+Tfidf with sigmoid kernel earned 45
+Count with cosine similarity earned 28
+Count with sigmoid kernel earned 36
+Hashing with cosine similarity earned 28
+Hashing with sigmoid kernel earned 28

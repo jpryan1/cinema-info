@@ -1,0 +1,102 @@
+
+
+Query: patch adams good will hunting dead poets society
+Tfidf Cosine: 2
+Tfidf Sigmoid: 2
+Count Cosine: 1
+Count Sigmoid: 10
+Hashing Cosine: 1
+Hashing Sigmoid: 1
+
+
+Query: casino godfather: part II silver linings playbook
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 4
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: star trek the cabin in the woods red dawn
+Tfidf Cosine: 6
+Tfidf Sigmoid: 6
+Count Cosine: 8
+Count Sigmoid: 0
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: the man from u.n.c.l.e. stardust immortals
+Tfidf Cosine: 2
+Tfidf Sigmoid: 2
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: the matrix cloud atlas v for vendetta
+Tfidf Cosine: 5
+Tfidf Sigmoid: 5
+Count Cosine: 1
+Count Sigmoid: 4
+Hashing Cosine: 1
+Hashing Sigmoid: 1
+
+
+Query: star wars: episode II attack of the clones lord of the rings  the fellowship of the ring hugo
+Tfidf Cosine: 0
+Tfidf Sigmoid: 0
+Count Cosine: 0
+Count Sigmoid: 0
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+ALL ZEROS IN THIS ROUND
+Christopher Lee
+
+
+Query: kick-ass national treasure ghost rider
+Tfidf Cosine: 1
+Tfidf Sigmoid: 1
+Count Cosine: 0
+Count Sigmoid: 6
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: edge of tomorrow the devil wears prada sicario
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 8
+Count Sigmoid: 9
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: forgetting sarah marshall the muppets this is the end
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 7
+Count Sigmoid: 3
+Hashing Cosine: 7
+Hashing Sigmoid: 7
+
+
+Query: american hustle man of steel the fighter
+Tfidf Cosine: 6
+Tfidf Sigmoid: 6
+Count Cosine: 5
+Count Sigmoid: 5
+Hashing Cosine: 5
+Hashing Sigmoid: 5
+
+
+Rounds: 10
+Scores:
+Tfidf with cosine similarity earned 39
+Tfidf with sigmoid kernel earned 39
+Count with cosine similarity earned 30
+Count with sigmoid kernel earned 41
+Hashing with cosine similarity earned 30
+Hashing with sigmoid kernel earned 30

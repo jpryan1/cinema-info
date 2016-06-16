@@ -1,0 +1,100 @@
+
+
+Query: marion cotillard joseph gordon-levitt ellen page
+Tfidf Cosine: 1
+Tfidf Sigmoid: 1
+Count Cosine: 0
+Count Sigmoid: 9
+Hashing Cosine: 0
+Hashing Sigmoid: 0
+
+
+Query: ewan mcgregor billy crudup steve buscemi
+Tfidf Cosine: 7
+Tfidf Sigmoid: 7
+Count Cosine: 7
+Count Sigmoid: 10
+Hashing Cosine: 7
+Hashing Sigmoid: 7
+
+
+Query: james caan al pacino robert duvall
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 6
+Count Sigmoid: 5
+Hashing Cosine: 6
+Hashing Sigmoid: 6
+
+
+Query: joel edgerton leonardo dicaprio carey mulligan
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 9
+Count Sigmoid: 10
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: robert downey jr. anton yelchin kat dennings
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 8
+Count Sigmoid: 4
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Query: chris pine emily blunt meryl streep
+Tfidf Cosine: 7
+Tfidf Sigmoid: 7
+Count Cosine: 4
+Count Sigmoid: 10
+Hashing Cosine: 4
+Hashing Sigmoid: 4
+
+
+Query: george clooney phillip seymour hoffman paul giamatti
+Tfidf Cosine: 9
+Tfidf Sigmoid: 9
+Count Cosine: 9
+Count Sigmoid: 8
+Hashing Cosine: 9
+Hashing Sigmoid: 9
+
+
+Query: brad pitt shia labeouf logan lerman
+Tfidf Cosine: 7
+Tfidf Sigmoid: 7
+Count Cosine: 6
+Count Sigmoid: 8
+Hashing Cosine: 6
+Hashing Sigmoid: 6
+
+
+Query: tom hardy charlize theron nicholas hoult
+Tfidf Cosine: 6
+Tfidf Sigmoid: 6
+Count Cosine: 4
+Count Sigmoid: 10
+Hashing Cosine: 4
+Hashing Sigmoid: 4
+
+
+Query: daniel craig eva green mads mikkelsen
+Tfidf Cosine: 8
+Tfidf Sigmoid: 8
+Count Cosine: 8
+Count Sigmoid: 0
+Hashing Cosine: 8
+Hashing Sigmoid: 8
+
+
+Rounds: 10
+Scores:
+Tfidf with cosine similarity earned 70
+Tfidf with sigmoid kernel earned 70
+Count with cosine similarity earned 61
+Count with sigmoid kernel earned 74
+Hashing with cosine similarity earned 61
+Hashing with sigmoid kernel earned 61
