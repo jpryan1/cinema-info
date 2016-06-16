@@ -10,5 +10,5 @@ The program asks for an output file name, where it will print results. It also a
 * Several movies that one actor was in (ie Inception, Titanic, Shutter Island)
 The program will then guess at the link between the elements of your query.
 
-#Dependencies:
+#Requirements:
 * sklearn
